@@ -2,7 +2,6 @@
 
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/TencentOpenAPI-Lite.svg)](https://img.shields.io/cocoapods/v/TencentOpenAPI-Lite.svg)
 [![Platform](https://img.shields.io/cocoapods/p/TencentOpenAPI-Lite.svg)](http://cocoadocs.org/docsets/TencentOpenAPI-Lite)
-[![Twitter](https://img.shields.io/badge/twitter-@DwarvenYang-blue.svg)](http://twitter.com/DwarvenYang)
 [![License](https://img.shields.io/cocoapods/l/TencentOpenAPI-Lite.svg)](https://img.shields.io/cocoapods/l/TencentOpenAPI-Lite.svg)
 
 A Mirror For TencentOpenAPI
